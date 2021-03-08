@@ -1,4 +1,4 @@
-{
+[
     {
     "timestamp": "Tuesday, 22 August 2020 07:00",
     "ip": "212.188.59.65",
@@ -29,4 +29,4 @@
     "typeOfAlert": "Login",
     "message": "ERROR: The Username or Password is incorrect!"
     }     
-}
+]
