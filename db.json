@@ -1,55 +1,32 @@
 {
-  "login":[
-      {
-        "timestamp": "Tuesday, 22 August 2020 07:00",
-        "ip": "212.188.59.65",
-        "numbofAlerts": 25,
-        "typeOfAlert": "Login",
-        "message": "ERROR: The Username or Password is incorrect!"
-      },
-      {
-        "timestamp": "Tuesday, 22 August 2020 08:30",
-        "ip": "212.188.59.65",
-        "numbofAlerts": 12,
-        "typeOfAlert": "Login",
-        "message": "ERROR: The Username or Password is incorrect!"
-      },
-      {
-        "timestamp": "Tuesday, 22 August 2020 09:00",
-        "ip": "212.188.59.65",
-        "numbofAlerts": 50,
-        "typeOfAlert": "Login",
-        "message": "ERROR: The Username or Password is incorrect!"
-      },
-      {
-        "timestamp": "Tuesday, 23 August 2020 16:15",
-        "ip": "212.188.59.65",
-        "numbofAlerts": 12,
-        "typeOfAlert": "Login",
-        "message": "ERROR: The Username or Password is incorrect!"
-      },
-      {
-        "timestamp": "Tuesday, 24 August 2020 17:38",
-        "ip": "212.188.59.65",
-        "numbofAlerts": 50,
-        "typeOfAlert": "Login",
-        "message": "ERROR: The Username or Password is incorrect!"
-      }
-],
-"portscan": [
-      {
-        "timestamp": "Wednesday, 23 August 2020 07:30",
-        "ip": "124.235.254.94",
-        "numbofAlerts": 28,
-        "typeOfAlert": "PortScan",
-        "message": "Port x scanned!"
-      },
-      {
-        "timestamp": "Wednesday, 23 August 2020 09:00",
-        "ip": "124.235.254.94",
-        "numbofAlerts": 79,
-        "typeOfAlert": "PortScan",
-        "message": "Port x scanned"
-      }
-]
+    {
+    "timestamp": "Tuesday, 22 August 2020 07:00",
+    "ip": "212.188.59.65",
+    "typeOfAlert": "PortScan",
+    "message": "Port x scanned"
+    },    
+    {
+    "timestamp": "Tuesday, 22 August 2020 07:01",
+    "ip": "212.188.59.65",
+    "typeOfAlert": "PortScan",
+    "message": "Port x scanned"
+    },
+    {
+    "timestamp": "Tuesday, 22 August 2020 07:01",
+    "ip": "212.188.59.65",
+    "typeOfAlert": "PortScan",
+    "message": "Port x scanned"
+    },
+    {
+    "timestamp": "Thursday, 24 August 2020 00:16",
+    "ip": "212.188.59.65",
+    "typeOfAlert": "Login",
+    "message": "ERROR: The Username or Password is incorrect!"
+    },  
+    {   
+    "timestamp": "Thursday, 24 August 2020 00:17",
+    "ip": "212.188.59.65",
+    "typeOfAlert": "Login",
+    "message": "ERROR: The Username or Password is incorrect!"
+    }     
 }
